@@ -6,11 +6,11 @@ This project is based on the [STTR model](https://github.com/mli0603/stereo-tran
 
 Predicted disparity on SCARED endoscopic scene:
 
-![](media/disparity.gif)
+![](/workspaces/EndoSTTR/Media/disparity.gif)
 
 Predicted depth on SCARED endoscopic scene:
 
-![](media/depth.gif)
+![](/workspaces/EndoSTTR/Media/depth.gif)
 
 ## Dependencies
 - Create your python virtual environment by 
