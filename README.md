@@ -28,7 +28,14 @@ Predicted depth on SCARED endoscopic scene:
     ``` 
 
 ## Folder Structure
- 
+#### Code Structure
+```
+stereo-transformer
+    |_ dataset (dataloder)
+    |_ model (network modules, including loss)
+    |_ utilities (training, evaluation, inference, logger etc.)
+```
+
 #### Data Structure
 Please see sample_scared folder for corresponding structure of the SCARED dataset. If you need to modify the existing structure, make sure to modify the dataloader.
 
